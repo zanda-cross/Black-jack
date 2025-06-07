@@ -1,6 +1,7 @@
 # Blackjack Game 🎲🃏
 
 A simple and interactive Blackjack game built using **HTML**, **CSS**, and **JavaScript**. The game simulates a classic casino-style Blackjack experience in the browser.
+Live At: https://zanda-cross.github.io/Black-jack/
 
 ## 🎮 Features
 
@@ -9,6 +10,8 @@ A simple and interactive Blackjack game built using **HTML**, **CSS**, and **Jav
 - Win with a Blackjack (sum = 21)
 - Tracks player status: alive, Blackjack, or out of the game
 - Clean UI with themed background and styled components
+
+![image alt](https://github.com/zanda-cross/Black-jack/blob/main/images/Blackjack.png?raw=true)
 
 ## 🛠️ Technologies Used
 
